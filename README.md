@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @muthu1698
-- 👀 I’m interested in Data Science 
+- 👋 Hi, I’m Muthu Krishnan
+- 👨‍💼 Working as Business Analyst
+- 👀 I’m interested in Data Science
 
 
 <!---
